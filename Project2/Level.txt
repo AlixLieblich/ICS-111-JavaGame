@@ -1,0 +1,19 @@
+25 18
+WWWWWWWWWWWWWWWWWWWWWWWWW
+W           D           W
+W     W   D      D   W  W
+W     W              W  W
+W   WWWWWWWWWWWW     W  W
+W       D               W
+W                  W    W
+W   WWWW        D W     W
+W      W           W    W
+W      W  D     WWWW    W
+W      W  D             W
+W   D  W                W
+W      W   WWWWW        W
+W   WWWWWWW        D    W
+W                       W
+W    D         WWWWWW   W
+W                       W
+WWWWWWWWWWWWWWWWWWWWWWWWW
