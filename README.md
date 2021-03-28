@@ -2,7 +2,7 @@
 
 Hide and seek champion
 
-## ;
+##      ;
 
 *since 1958*
 
